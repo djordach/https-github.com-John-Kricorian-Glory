@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = "https://zelty.fr"
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'John Kricorian' => 'john@zelty.fr' }
-  s.source       = { :git => "git@bitbucket.org:zelty/zeltypodspecs.git", :tag => "v#{s.version}" }
+  s.source       = { :git => "https://github.com/John Kricorian/Glory.git", :tag => "v#{s.version}" }
 
   s.ios.deployment_target = '12.0'
   s.swift_version = '5.0'
