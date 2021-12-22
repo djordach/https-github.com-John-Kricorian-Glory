@@ -1,0 +1,16 @@
+PODS:
+  - Glory (0.1.0)
+
+DEPENDENCIES:
+  - Glory (from `../`)
+
+EXTERNAL SOURCES:
+  Glory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Glory: a9f51aa8ad13645f01ce2406f32acbc4a66f3fbb
+
+PODFILE CHECKSUM: 62486182db0f57cec7828feb293deba40247ebd9
+
+COCOAPODS: 1.11.2

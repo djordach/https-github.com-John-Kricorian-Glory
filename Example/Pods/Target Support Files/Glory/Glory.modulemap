@@ -1,0 +1,6 @@
+framework module Glory {
+  umbrella header "Glory-umbrella.h"
+
+  export *
+  module * { export * }
+}
